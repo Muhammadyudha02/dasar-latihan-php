@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;   
+}
+.btn{
+    font-family: "roboto",sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background: red;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 5px;
+    cursor:pointer;
+    box-shadow: 0 0 10px rgba(0, 0,0, 0.1);
+    -webkit-transition-duration: 0.3s ;
+    transition-duration: 0.3s;
+    -webkit-transition-property:box-shadow,transform;
+    transition-property:box-shadow,transform;
+    box-sizing: border-box;
+    
+}
+
+.btn:hover, .btn:focus, .btn:active{
+    box-shadow: 0 0 20px rgba(0, 0,0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;   
+}
+.tombol{
+    font-family: "roboto",sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background: blue;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 5px;
+    cursor:pointer;
+    box-shadow: 0 0 10px rgba(0, 0,0, 0.1);
+    -webkit-transition-duration: 0.3s ;
+    transition-duration: 0.3s;
+    -webkit-transition-property:box-shadow,transform;
+    transition-property:box-shadow,transform;
+    margin-left: 20px;
+    margin-right: 20px;
+    box-sizing: border-box;
+}
+.tombol:hover, .tombol:focus, .tombol:active{
+    box-shadow: 0 0 20px rgba(0, 0,0, 0.5);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    display: flex;   
+}
+
+.text{
+    font-family: "roboto",sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    background: grey;
+    width: 160px;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #fff;
+    border-radius: 5px;
+    cursor:pointer;
+    box-shadow: 0 0 10px rgba(0, 0,0, 0.1);
+    -webkit-transition-duration: 0.3s ;
+    transition-duration: 0.3s;
+    -webkit-transition-property:box-shadow,transform;
+    transition-property:box-shadow,transform;
+    box-sizing: border-box;
+}
+.text:hover, .text:focus, .text:active{
+    box-shadow: 0 0 20px rgba(0, 0,0, 0.5);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+
+}
